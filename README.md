@@ -1,8 +1,8 @@
-# 🌌 Galaxy Strike
+# Cosmic Warfare
 
 **Tactical rail shooting · Precision aiming · Cinematic gameplay**
 
-> Galaxy Strike is a tactical rail-based shooter inspired by classic games like *Star Fox*.  
+> Cosmic Warfare is a tactical rail-based shooter inspired by classic games like *Star Fox*.  
 > Players fly through a controlled timeline rail while dodging enemy waves and executing precision-based shooting with responsive input and cinematic camera systems.
 
 ---
