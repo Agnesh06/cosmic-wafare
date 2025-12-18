@@ -11,15 +11,15 @@
 
 _Click the image below to watch the gameplay demo_
 
-<a href="https://YOUR_YOUTUBE_LINK">
-  <img src="assets/demo/galaxy-strike-demo-thumbnail.png" width="500" alt="Galaxy Strike Demo">
+<a href="https://www.youtube.com/watch?v=AR6nu41bZyI&list=PLURMZjRAnx3hGPsnrgJf6gXTrpHJhpxbA)">
+  <img src="intch files/gamer cover.png" width="300" alt="Galaxy Strike Demo">
 </a>
 
 ## 🚀 Play Now
 
 <p align="center">
   <a href="https://YOUR_PLAY_LINK">
-    <img src="assets/ui/play-button.png" alt="Play Galaxy Strike" width="220">
+    <img src="intch files/button.png" alt="Play Galaxy Strike" width="220">
   </a>
   <br>
   <em>No download required · WebGL · Browser-based</em>
@@ -28,9 +28,9 @@ _Click the image below to watch the gameplay demo_
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/gs_shot1.png" width="280" alt="Galaxy Strike Screenshot 1" />
-  <img src="assets/screenshots/gs_shot2.png" width="280" alt="Galaxy Strike Screenshot 2" />
-  <img src="assets/screenshots/gs_shot3.png" width="280" alt="Galaxy Strike Screenshot 3" />
+  <img src="intch files/screenshoot - 1.jpg" width="280" alt="Galaxy Strike Screenshot 1" />
+  <img src="intch files/ScreenShoot - 2.jpg" width="280" alt="Galaxy Strike Screenshot 2" />
+  <img src="intch files/Screenshot 2025-11-04 195629.jpg" width="280" alt="Galaxy Strike Screenshot 3" />
 </p>
 
 ---
