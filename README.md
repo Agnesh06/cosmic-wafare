@@ -18,7 +18,7 @@ _Click the image below to watch the gameplay demo_
 ## 🚀 Play Now
 
 <p align="center">
-  <a href="https://YOUR_PLAY_LINK">
+  <a href="https://agnesh.itch.io/cosmic-warfare)">
     <img src="intch files/button.png" alt="Play Galaxy Strike" width="220">
   </a>
   <br>
